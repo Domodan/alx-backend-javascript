@@ -42,9 +42,9 @@
 `12-createReportObject.js`
 > 12. Let's create a report object
 ---
-``
-> 
+`100-createIteratorObject.js`
+> 13. Iterating through report objects 
 ---
-``
-> 
+`101-iterateThroughObject.js`
+> 14. Iterate through object
 ---
