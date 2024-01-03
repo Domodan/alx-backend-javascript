@@ -33,6 +33,6 @@
 `9-try.js`
 > 9. Throw an error
 ---
-``
-> 
+`100-await.js`
+> 10. Await / Async
 ---
