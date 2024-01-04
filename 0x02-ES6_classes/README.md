@@ -36,6 +36,6 @@
 `10-car.js`
 > 10. Vroom - Implement a class named Car
 ---
-``
-> 
+`100-evcar.js`
+> 11. EVCar - Import Car from 10-car.js and Implement a class named EVCar that extends the Car class
 ---
