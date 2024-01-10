@@ -7,10 +7,10 @@ export interface Teacher {
   [index:string]: any;
 }
 
-/**export interface Directors extends Teacher {
+export interface Directors extends Teacher {
   numberOfReports: number;
 }
-
+/**
 export interface printTeacherFunction {
   (firstName: string, lastName: string): string;
 }
