@@ -18,7 +18,7 @@ export interface printTeacherFunction {
 export function printTeacher(firstName: string, lastName: string): string {
   return `${firstName[0]}. ${lastName}`;
 }
-/**
+
 export interface IStudentClassConstructor {
   new (firstName: string, lastName: string): IStudentClass;
 }
@@ -49,4 +49,3 @@ export class StudentClass implements IStudentClass {
 export function createStudent(ctor: IStudentClassConstructor, firstName: string, lastName: string): IStudentClass {
   return new ctor(firstName, lastName);
 }
-*/
