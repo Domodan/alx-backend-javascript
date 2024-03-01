@@ -1,3 +1,9 @@
+/**
+ * Logs a message to the console.
+ * @param {string} message - The message to log.
+ * @returns {void}
+ * @author Daniel Ongom <https://github.com/Domodan>
+ */
 process.stdout.write('Welcome to Holberton School, what is your name?\n');
 
 process.stdin.setEncoding('utf8');
