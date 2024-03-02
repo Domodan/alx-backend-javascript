@@ -16,7 +16,6 @@ class StudentsController {
     readDatabase(dataPath)
       .then((studentGroups) => {
         const responseParts = ['This is the list of our students'];
-	// Compare list of strings ordering in particular order
         const compareFunction = (a, b) => {
           if (a[0].toLowerCase() < b[0].toLowerCase()) {
             return -1;
