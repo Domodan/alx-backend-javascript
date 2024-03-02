@@ -1,4 +1,3 @@
-
 /**
  * Creates a more complex HTTP server using Express
  * @param {String} dataPath The path to the CSV data file
