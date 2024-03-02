@@ -16,7 +16,7 @@ class StudentsController {
     readDatabase(dataPath)
       .then((studentGroups) => {
         const responseParts = ['This is the list of our students'];
-        /** 
+        /**
 	 * A comparison function for ordering a list of strings in ascending
 	 * order by alphabetic order and case insensitive
 	 */
